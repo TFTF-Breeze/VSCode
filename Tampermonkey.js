@@ -4,6 +4,7 @@
 // @version      2024-12-10
 // @description  西北师范大学自动刷课保存
 // @author       TFTF-Breeze
+// @license      ABOL=1.0
 // @match        http://learning.zk211.com/xbsflearning/console/*
 // @icon         http://nwnu.zk211.com/xbsf/console/images/logo60.png
 // @grant        none
